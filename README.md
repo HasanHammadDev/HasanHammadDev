@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an app called [Waitress](https://github.com/1ShoukR/waitress-mobile)
 
-- 🌱 I’m currently learning **Typescript.**
+- 🌱 I’m currently learning **Typescript and React Native.**
 
 - 💬 Ask me about **My gaming career!**
 
