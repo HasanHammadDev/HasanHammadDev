@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Hammad</h1>
 <h3 align="center">A passionate full-stack web developer from the United States!</h3>
 
-- 🔭 I’m currently working on [Login/Register App](https://github.com/HasanHammadDev/Login-Page-React-Typescript)
+- 🔭 I’m currently working on an app called [Waitress](https://github.com/1ShoukR/waitress-mobile)
 
 - 🌱 I’m currently learning **Typescript.**
 
