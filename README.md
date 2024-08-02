@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project called [VR-ecommerce](https://github.com/HasanHammadDev/VR-Ecommerce)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** & **Python**
 
 - 💬 Ask me about **My gaming career!**
 
